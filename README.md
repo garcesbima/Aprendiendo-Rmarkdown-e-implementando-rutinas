@@ -1,2 +1,2 @@
-# Aprendiendo-Rmarkdown-e-implementando-rutinas
-Rutinas para explorar R markdown e implementar distintos trabajos
+# Reportes interactivos en línea
+Crea reportes interactivos.
